@@ -1,0 +1,5 @@
+# ignore csv data file
+/yellow_tripdata_2021-01.csv.gz
+
+# docker run command
+/command.txt
